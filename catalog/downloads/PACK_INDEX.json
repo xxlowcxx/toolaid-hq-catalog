@@ -1,0 +1,62 @@
+[
+  {
+    "project": "AgentSmith",
+    "zip": "/home/lowc/Projects/homebase/catalog/downloads/AgentSmith-source.zip",
+    "files_packed": 6,
+    "bytes": 3006
+  },
+  {
+    "project": "CableSiren",
+    "zip": "/home/lowc/Projects/homebase/catalog/downloads/CableSiren-source.zip",
+    "files_packed": 18,
+    "bytes": 16477
+  },
+  {
+    "project": "Cooler",
+    "zip": "/home/lowc/Projects/homebase/catalog/downloads/Cooler-source.zip",
+    "files_packed": 40,
+    "bytes": 23864
+  },
+  {
+    "project": "Hand-0f-G0d",
+    "zip": "/home/lowc/Projects/homebase/catalog/downloads/Hand-0f-G0d-source.zip",
+    "files_packed": 4,
+    "bytes": 2108
+  },
+  {
+    "project": "PhoenixWrap",
+    "zip": "/home/lowc/Projects/homebase/catalog/downloads/PhoenixWrap-source.zip",
+    "files_packed": 27,
+    "bytes": 19891
+  },
+  {
+    "project": "Push-Over",
+    "zip": "/home/lowc/Projects/homebase/catalog/downloads/Push-Over-source.zip",
+    "files_packed": 26,
+    "bytes": 18005
+  },
+  {
+    "project": "T00L-AID",
+    "zip": "/home/lowc/Projects/homebase/catalog/downloads/T00L-AID-source.zip",
+    "files_packed": 8,
+    "bytes": 3614
+  },
+  {
+    "project": "Ventoy-MobileSandbox",
+    "zip": "/home/lowc/Projects/homebase/catalog/downloads/Ventoy-MobileSandbox-source.zip",
+    "files_packed": 7,
+    "bytes": 4303
+  },
+  {
+    "project": "burn-box-stage-1",
+    "zip": "/home/lowc/Projects/homebase/catalog/downloads/burn-box-stage-1-source.zip",
+    "files_packed": 114,
+    "bytes": 189360
+  },
+  {
+    "project": "homebase",
+    "zip": "/home/lowc/Projects/homebase/catalog/downloads/homebase-source.zip",
+    "files_packed": 344,
+    "bytes": 12874058
+  }
+]
