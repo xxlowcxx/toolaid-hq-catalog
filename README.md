@@ -1,6 +1,8 @@
 # Toolaid HQ Catalog
 
-Living inventory of **every Toolaid / Siren project, script, task, and sandbox tool** on the HQ laptop.
+Living inventory of every Toolaid / Siren project, script, task, and sandbox tool on the HQ laptop.
+
+The account map, with each GitHub project on its own line, is [xxlowcxx/xxlowcxx](https://github.com/xxlowcxx/xxlowcxx).
 
 ## Browse
 
@@ -17,11 +19,11 @@ Full source zips live on the laptop at:
 
 `~/Projects/homebase/catalog/downloads/`
 
-(Not all uploaded here — large binaries stay local until archives HDD lands.)
+(Not all uploaded here. Large binaries stay local until archives HDD lands.)
 
 ## Witness protocol
 
-Sandbox tools: invent freely → alert LowC → push to GitHub → **first legit use witnessed**.
+Sandbox tools: invent freely, alert LowC, push to GitHub, first legit use witnessed.
 
 ```bash
 ~/Projects/homebase/tools/sandbox/witness_first_run.sh
